@@ -1,2 +1,4 @@
-INSTAGRAM= HAYANE_GABRIELE
-TENHO 14 ANOS
+oi,me chamo hayane
+atualmente estudo no CECMPS
+instagram:@hayane_gabriele
+
